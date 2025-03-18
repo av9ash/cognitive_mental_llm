@@ -3,7 +3,7 @@ Cognitive-Mental-LLM: Leveraging Reasoning in Large Language Models for Mental H
 
 ## License and Citation
 This project is released under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.  
-Any use or reuse of this work must cite the following:
+Any use or reuse of this work please cite the following:
 
 ```
 @misc{patil2025cognitivementalllmleveragingreasoninglarge,
