@@ -6,7 +6,7 @@ This project is released under the **Creative Commons Attribution 4.0 Internatio
 Any use or reuse of this work please cite the following:
 
 ```
-@misc{patil2025cognitivementalllmleveragingreasoninglarge,
+@misc{patil2025cognitive,
       title={Cognitive-Mental-LLM: Leveraging Reasoning in Large Language Models for Mental Health Prediction via Online Text}, 
       author={Avinash Patil and Amardeep Kour Gedhu},
       year={2025},
